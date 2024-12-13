@@ -11,6 +11,7 @@ body {
     background-image: url('Frame 17.png'); 
     background-position: cover;
     background-size:cover;
+    overflow:cover;
     margin:0;
     width: 100vw; 
     height: 100vh;
